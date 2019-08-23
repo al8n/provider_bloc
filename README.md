@@ -1,16 +1,16 @@
 # provider_bloc
 
-A new Flutter project.
+A simple example, how to custom app theme by flutter with provider.     
+一个例子，使用flutter的provider实现用户自定义app主题。
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# dirctionary 目录结构
+## constants 常量
+constant 常量文件
+## bloc 
+the class need to provide 存放provider的类
+## pages
+page views 页面文件
+## main.dart
+entry 入口文件
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
